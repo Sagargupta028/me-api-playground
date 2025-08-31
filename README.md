@@ -282,53 +282,11 @@ cd frontend
 npm test
 ```
 
-## 📋 Environment Variables
 
-### Backend (.env)
-```env
-# Database Configuration
-MONGODB_URI=mongodb://localhost:27017/me-api-playground
-# For MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/me-api-playground
-
-# Server Configuration
-PORT=5000
-NODE_ENV=development
-
-# CORS Configuration
-FRONTEND_URL=http://localhost:3000
-
-# API Configuration
-API_VERSION=v1
-```
-
-### Frontend (.env)
-```env
-REACT_APP_API_URL=http://localhost:5000/api
-```
-
-## 🚀 Deployment URLs
-
-- **Frontend**: [https://me-api-playground.vercel.app](https://me-api-playground.vercel.app)
-- **Backend API**: [https://me-api-playground-backend.render.com](https://me-api-playground-backend.render.com)
-- **Repository**: [https://github.com/sagargupta/me-api-playground](https://github.com/sagargupta/me-api-playground)
-
-## ⚠️ Known Limitations
-
-1. **Single Profile**: Currently supports only one profile per database
-2. **No Authentication**: All endpoints are public (suitable for personal portfolio)
-3. **Basic Search**: Text-based search without advanced filtering
-4. **No Caching**: API responses are not cached
-5. **Limited Validation**: Basic input validation on API endpoints
-6. **No Rate Limiting**: API endpoints don't have rate limiting implemented
-7. **File Uploads**: No support for image/file uploads for projects or profile
 
 ## 🔗 Resume & Contact
 
-- **Resume**: [https://sagargupta.dev/resume.pdf](https://sagargupta.dev/resume.pdf)
-- **Portfolio**: [https://sagargupta.dev](https://sagargupta.dev)
-- **LinkedIn**: [https://linkedin.com/in/sagar-gupta-dev](https://linkedin.com/in/sagar-gupta-dev)
-- **GitHub**: [https://github.com/sagargupta](https://github.com/sagargupta)
+- **Resume**: [https://drive.google.com/file/d/1nUs4T4EKv_0xfOedlCocR_Zk2xWXYhhO/view?usp=sharing]
 
 
 ---

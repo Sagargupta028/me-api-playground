@@ -286,7 +286,7 @@ npm test
 
 ## 🔗 Resume & Contact
 
-- **Resume**: [https://sagargupta028/resume.pdf]([https://sagargupta.dev/resume.pdf](https://drive.google.com/file/d/1nUs4T4EKv_0xfOedlCocR_Zk2xWXYhhO/view?usp=sharing))
+- **Resume**: [https://drive.google.com/file/d/1nUs4T4EKv_0xfOedlCocR_Zk2xWXYhhO/view?usp=sharing]
 
 
 ---
